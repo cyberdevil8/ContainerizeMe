@@ -7,7 +7,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="amit",
-    author_email="amitpotdar31.com",
+    author_email="amitpotdar31@gmail.com",
     url="https://github.com/cyberdevil8/ContainerizeMe",
     packages=find_packages(),
     install_requires=[
