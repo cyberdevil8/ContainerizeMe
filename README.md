@@ -14,4 +14,4 @@
 You can install `ContainerizeMe` via `pip`:
 
 ```bash
-pip install containerizemepackage
+pip install containerizeme
